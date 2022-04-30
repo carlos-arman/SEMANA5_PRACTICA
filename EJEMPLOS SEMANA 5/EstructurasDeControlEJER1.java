@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-public class EstructurasDeControl{
+public class EstructurasDeControlEJER1{
     public static void main(String[] args) {
         try {
             BufferedReader leer = new  BufferedReader(new InputStreamReader(System.in));
