@@ -1,9 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package estructuras.condicionales;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-
-public class EstructurasDeControlEJER1{
-    public static void main(String[] args) {
+/**
+ *
+ * @author Armando
+ */
+public class EstructuraIfSencilla {
+         public static void main(String[] args) {
         try {
             BufferedReader leer = new  BufferedReader(new InputStreamReader(System.in));
             System.out.println("Ingrese la cantidad de su salario:");
