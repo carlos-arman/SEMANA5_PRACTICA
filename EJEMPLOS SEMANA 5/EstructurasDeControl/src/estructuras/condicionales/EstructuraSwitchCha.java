@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Armando
+ * @author  Armando
  */
 public class EstructuraSwitchCha {
     public static void main(String[] args) throws IOException {
