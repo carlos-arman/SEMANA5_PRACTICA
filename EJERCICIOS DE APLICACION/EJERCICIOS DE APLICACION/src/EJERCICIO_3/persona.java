@@ -1,4 +1,4 @@
-public class persona {
+public class persona  {
     String nombre;
     String genero;
     double estatura;

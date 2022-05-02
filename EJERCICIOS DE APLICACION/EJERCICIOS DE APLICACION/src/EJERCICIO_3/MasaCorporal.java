@@ -2,8 +2,8 @@ public class MasaCorporal extends persona{
     //. Crear  un  programa  que  calcule  el  índice  de  masa 
     // corporal  de  una  persona  según  la siguiente formula e 
     // indique el estado en el que se encuentra esa persona en
-    // función del valor de IMC.
-
+    // función del valor de IMC..
+  
     
     public double IMC = 0;
 
