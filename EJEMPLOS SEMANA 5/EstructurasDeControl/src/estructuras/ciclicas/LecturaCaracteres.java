@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Armando
+ * @author  Armando
  */
 public class LecturaCaracteres {
     public static void main(String[] args) {
