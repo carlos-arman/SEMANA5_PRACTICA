@@ -23,6 +23,6 @@ public class EstructuraIfElseAnidada {
             System.out.println("Usted gana menos del salario minimo");
         }else { //En caso de que la codicion anterior no se ejecuta lo siguiente
             System.out.println("Ingreso de datos erroneo!");
-        }
+        } 
     }     
 }
