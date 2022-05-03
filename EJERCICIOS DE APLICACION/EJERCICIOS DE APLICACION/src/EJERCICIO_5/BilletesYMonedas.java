@@ -44,10 +44,9 @@ public class BilletesYMonedas {
          double minutoA = 0.5;
         
              
-         Cantidad =minutoA *(Cantidad - 3)+ Cantidad * 0.067;
+         Cantidad = Cantidad - 3 *( minutoA)+ 0.20;
           System.out.println("La cantidad a pagar es: "); 
-          
-     }  
+          System.out.println("Cantidad total: " + Cantidad);
       
 			if( (Cantidad  >= 20) )
 			{
@@ -107,5 +106,7 @@ public class BilletesYMonedas {
 			}
                         
         
+     }  
+     
  }
 }
