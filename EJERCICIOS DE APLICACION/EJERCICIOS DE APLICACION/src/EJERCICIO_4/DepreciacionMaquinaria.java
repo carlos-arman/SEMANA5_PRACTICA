@@ -7,5 +7,7 @@ package EJERCICIO_4;
 
 
 public class DepreciacionMaquinaria {
-    
+    public static void main(String[] args) {
+        
+    }
 }
