@@ -8,6 +8,12 @@ package EJERCICIO_4;
 
 public class DepreciacionMaquinaria {
     public static void main(String[] args) {
+        double costo_maquinaria;
+        String nombre_maquina;
+        double periodo_tiempo;
+        
+    }
+    public static void suma(double costo_maquinaria, String nombre_maquina, double periodo_tiempo){
         
     }
 }
