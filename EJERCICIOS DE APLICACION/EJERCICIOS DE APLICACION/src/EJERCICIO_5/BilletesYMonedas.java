@@ -20,6 +20,21 @@ El nombre de la clase creada será: BilletesYMonedas. */
 public class BilletesYMonedas {
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
+        double minutos;
+        int billetes_1, billetes_5, billetes_10, billetes_20;
+        int monedas_1, monedas_5, monedas_10, monedas_25;
+        
+        
+        System.out.print("Ingrese los minutos de la llamada: ");
+        
+        minutos = leer.nextDouble();
+        if(minutos == 3){
+            System.out.println("Su pago es de: ");
+        }else if(minutos > 1000){
+            double MinutosAumentados;
+            MinutosAumentados = minutos - 3 * 0.5;
+            System.out.println("ff" + MinutosAumentos");
+        }
         
     }
 }
