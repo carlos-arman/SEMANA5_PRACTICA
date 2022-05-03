@@ -30,10 +30,10 @@ public class BilletesYMonedas {
         minutos = leer.nextDouble();
         if(minutos == 3){
             System.out.println("Su pago es de: ");
-        }else if(minutos > 1000){
+        }else if(minutos > 3){
             double MinutosAumentados;
             MinutosAumentados = minutos - 3 * 0.5;
-            System.out.println("ff" + MinutosAumentos");
+            
         }
         
     }
