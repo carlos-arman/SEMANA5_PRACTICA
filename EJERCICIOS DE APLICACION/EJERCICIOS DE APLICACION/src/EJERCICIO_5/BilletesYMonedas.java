@@ -31,9 +31,10 @@ public class BilletesYMonedas {
         if(minutos == 3){
             System.out.println("Su pago es de: ");
         }else if(minutos > 3){
-            double MinutosAumentados;
-            MinutosAumentados = minutos - 3 * 0.5;
             
+            double MinutosAumentados;
+            MinutosAumentados = minutos - 3 *( 0.5 ) + 0.20;
+            System.out.println("Total" + MinutosAumentados);
         }
         
     }
