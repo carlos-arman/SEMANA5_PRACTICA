@@ -34,7 +34,7 @@ public class BilletesYMonedas {
             
             double MinutosAumentados;
             MinutosAumentados = minutos - 3 *( 0.5 ) + 0.20;
-            System.out.println("Total" + MinutosAumentados);
+            System.out.println("Total: " + MinutosAumentados);
         }
         
     }
